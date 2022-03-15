@@ -1,19 +1,19 @@
 # Basic-Bank-System
 
-# Introduction
+## Introduction
 
-## The Sparks Foundation Internship Project - Basic Banking System
+### The Sparks Foundation Internship Project - Basic Banking System
 ## Stack follows:
 
 #### Front end :
-HTML
-CSS
-BOOTSTRAP
-JAVASCRIPT
++HTML
+-CSS
+*BOOTSTRAP
+&JAVASCRIPT
 #### Back end :
-PHP
++PHP
 #### Database:
-MySQL
++MySQL
 
 ## Flow of the website:
-Home ->  Transfer Money -> Select Receiver -> See the transaction to be done -> Histroy
++Home ->  Transfer Money -> Select Receiver -> See the transaction to be done -> Histroy
