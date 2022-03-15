@@ -1,8 +1,8 @@
 # Basic-Bank-System
 
-## Introduction
+# Introduction
 
-# The Sparks Foundation Internship Project - Basic Banking System
+## The Sparks Foundation Internship Project - Basic Banking System
 
 ## Stack follows:
 # Front end :
