@@ -6,14 +6,14 @@
 ## Stack follows:
 
 #### Front end :
-+HTML
--CSS
-*BOOTSTRAP
-&JAVASCRIPT
++ HTML
+- CSS
+* BOOTSTRAP
+& JAVASCRIPT
 #### Back end :
-+PHP
++ PHP
 #### Database:
-+MySQL
++ MySQL
 
 ## Flow of the website:
-+Home ->  Transfer Money -> Select Receiver -> See the transaction to be done -> Histroy
++ Home ->  Transfer Money -> Select Receiver -> See the transaction to be done -> Histroy
