@@ -2,14 +2,14 @@
 
 ## Introduction
 
-### The Sparks Foundation Internship Project - Basic Banking System
+## The Sparks Foundation Internship Project - Basic Banking System
 ## Stack follows:
 
 #### Front end :
 + HTML
 - CSS
 * BOOTSTRAP
-& JAVASCRIPT
++ JAVASCRIPT
 #### Back end :
 + PHP
 #### Database:
