@@ -16,4 +16,4 @@
 + MySQL
 
 ## Flow of the website:
-+ Home ->  Transfer Money -> Select Receiver -> See the transaction to be done -> Histroy
++ Home ->View all Customers ->Select One Customer ->Transfer Money -> Select Receiver -> See the transaction to be done -> Histroy
